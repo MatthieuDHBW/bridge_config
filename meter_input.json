@@ -1,0 +1,30 @@
+{
+  "metaid": "ModbusJson",
+  "result": "OK",
+  "registers": [
+    {
+      "id": 2530,
+      "name": "Consumption_other_in_W",
+      "type": "IEEE-754 float32",
+      "len": 32
+    },
+    {
+      "id": 2532,
+      "name": "Consumption_water_in_W",
+      "type": "IEEE-754 float32",
+      "len": 32
+    },
+    {
+      "id": 2534,
+      "name": "Consumption_electrolyzer_in_W",
+      "type": "IEEE-754 float32",
+      "len": 32
+    },
+    {
+      "id": 2536,
+      "name": "Consumption_total_in_W",
+      "type": "IEEE-754 float32",
+      "len": 32
+    }
+  ]
+}
