@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Safety_EmStopRelayOff_MEM",
+    "id": "DB1.DBX100.0",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_BubblerTempTooHigh_MEM",
+    "id": "DB1.DBX100.1",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_BubblerTempTooLow_MEM",
+    "id": "DB1.DBX101.0",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_PipeTemp5_TooLow_MEM",
+    "id": "DB1.DBX101.1",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_PipeTemp6_TooLow_MEM",
+    "id": "DB1.DBX102.0",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_StackTempTooHigh_MEM",
+    "id": "DB1.DBX102.1",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_StackTempTooLow_MEM",
+    "id": "DB1.DBX103.0",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_OutPressTooHigh_MEM",
+    "id": "DB1.DBX103.1",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_StackWaterFlowErr_MEM",
+    "id": "DB1.DBX104.0",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_AnodePurgeOff_MEM",
+    "id": "DB1.DBX104.1",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_HydrogenFlowTooLow_MEM",
+    "id": "DB1.DBX105.0",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_HumidificationValvesErr_MEM",
+    "id": "DB1.DBX105.1",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_VoltageCell1_ToHigh_MEM",
+    "id": "DB1.DBX106.0",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_VoltageCell2_ToHigh_MEM",
+    "id": "DB1.DBX106.1",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_VoltageCell4_ToHigh_MEM",
+    "id": "DB1.DBX107.0",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_VoltageCell5_ToHigh_MEM",
+    "id": "DB1.DBX107.1",
+    "type": "BOOL"
+  },
+  {
+    "name": "Safety_VoltageCell3_ToHigh_MEM",
+    "id": "DB1.DBX108.0",
+    "type": "BOOL"
+  }
+]
