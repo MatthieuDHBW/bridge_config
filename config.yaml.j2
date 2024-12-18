@@ -6,20 +6,20 @@ devices:
       remote: "192.168.1.12:502"
       input_registers: "input_registers.json"
       holding_registers: "holding_registers.json"
-  modbus_rtu:
-    electrolyzer-meter:
-      port: "/dev/modbus_rtu"
-      slave: 1
-      speed: 19200
-      input_registers: "meter_input.json"
-      holding_registers: "meter_holding.json"
-  S7:
-    compressor:
-      remote: "192.168.1.16:102"
-      registers: "S7_registers.json"
-    logo:
-      remote: "192.168.1.32:102"
-      registers: "LOGO_registers.json"
+  #modbus_rtu:
+    #electrolyzer-meter:
+      #port: "/dev/modbus_rtu"
+      #slave: 1
+      #speed: 19200
+      #input_registers: "meter_input.json"
+      #holding_registers: "meter_holding.json"
+  #S7:
+    #compressor:
+      #remote: "192.168.1.16:102"
+      #registers: "S7_registers.json"
+    #logo:
+      #remote: "192.168.1.32:102"
+      #registers: "LOGO_registers.json"
 
 remotes:
   influx_db:
